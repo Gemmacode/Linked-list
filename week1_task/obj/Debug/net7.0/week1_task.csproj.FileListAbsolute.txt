@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\projects\week-1-task-Gemmacode\week1_task\bin\Debug\net7.0\week1_task.exe
+C:\Users\user\Desktop\projects\week-1-task-Gemmacode\week1_task\bin\Debug\net7.0\week1_task.deps.json
+C:\Users\user\Desktop\projects\week-1-task-Gemmacode\week1_task\bin\Debug\net7.0\week1_task.runtimeconfig.json
+C:\Users\user\Desktop\projects\week-1-task-Gemmacode\week1_task\bin\Debug\net7.0\week1_task.dll
+C:\Users\user\Desktop\projects\week-1-task-Gemmacode\week1_task\bin\Debug\net7.0\week1_task.pdb
+C:\Users\user\Desktop\projects\week-1-task-Gemmacode\week1_task\obj\Debug\net7.0\week1_task.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\projects\week-1-task-Gemmacode\week1_task\obj\Debug\net7.0\week1_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\projects\week-1-task-Gemmacode\week1_task\obj\Debug\net7.0\week1_task.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\projects\week-1-task-Gemmacode\week1_task\obj\Debug\net7.0\week1_task.AssemblyInfo.cs
+C:\Users\user\Desktop\projects\week-1-task-Gemmacode\week1_task\obj\Debug\net7.0\week1_task.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projects\week-1-task-Gemmacode\week1_task\obj\Debug\net7.0\week1_task.dll
+C:\Users\user\Desktop\projects\week-1-task-Gemmacode\week1_task\obj\Debug\net7.0\refint\week1_task.dll
+C:\Users\user\Desktop\projects\week-1-task-Gemmacode\week1_task\obj\Debug\net7.0\week1_task.pdb
+C:\Users\user\Desktop\projects\week-1-task-Gemmacode\week1_task\obj\Debug\net7.0\week1_task.genruntimeconfig.cache
+C:\Users\user\Desktop\projects\week-1-task-Gemmacode\week1_task\obj\Debug\net7.0\ref\week1_task.dll
